@@ -35,9 +35,24 @@ This keyboarded and encoded edition of the
 ##Content Summary##
 
 #####Front#####
-A funerall elegie vpon the death of the late most hopefull and illustrious prince, Henry, Prince of 
+
+1. To the right Honourable, Edward
+Earle of Worcester, Lord of Chepstoll,
+Ragland, and Gower, Knight of
+the most Noble Order of the Garter,
+Maister of the Horse, and one of the
+Kings most Honourable Priuy
+COVNCELL.
+
+1. TO THE READER.
+
 #####Body#####
-A funerall elegie vpon the death of the late most hopefull and illustrious prince, Henry, Prince of 
+
+1. A Funerall Elegie,
+Of the late most High and Illustrious
+Prince, HENRY,
+Prince of Wales.
+
 **Types of content**
 
   * There are 400 **verse** lines!
